@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Chargement en cours...
+
 
 <p align="center">
   <img src="https://progress-bar.dev/0/?title=progress" alt="Barre de chargement">
