@@ -4,5 +4,3 @@
 
 
 🧰 Day 0/31 to code software in python every day
-
-**`1%|█                 | 0/31 `**
