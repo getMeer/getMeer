@@ -3,4 +3,4 @@
 **`A 15 year old coder coding in python`**
 
 
-### 🧰 Day 0/31 to code software in python every day
+🧰 Day 0/31 to code software in python every day
