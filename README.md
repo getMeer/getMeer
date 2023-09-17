@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### Chargement en cours...
 
 <p align="center">
-  <img src="https://progress-bar.dev/50/?title=progress" alt="Barre de chargement">
+  <img src="https://progress-bar.dev/0/?title=progress" alt="Barre de chargement">
 </p>
